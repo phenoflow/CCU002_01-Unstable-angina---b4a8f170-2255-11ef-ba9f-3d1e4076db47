@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-unstable-angina---primary.py
+inputModule3:
+  class: File
+  path: python/cooccurrent-ccu002_01-unstable-angina---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-unstable-angina-infarction---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-unstable-angina-refractory---primary.py
+inputModule6:
+  class: File
+  path: python/acute-ccu002_01-unstable-angina---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-unstable-angina-arteriosclerosis---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-unstable-angina-anginosus---primary.py
+inputModule9:
+  class: File
+  path: python/angina---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-unstable-angina-worsening---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
